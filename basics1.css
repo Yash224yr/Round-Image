@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+.image1 img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: relative;
+    margin-right: 20px;
+}
+.img1 img{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 120px;
+    left: 420px;
+}
+.img2 img{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 120px;
+    right: 530px;
+}
+.img3 img{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 120px;
+    right: 100px;
+}
